@@ -2,6 +2,8 @@
 
 🎓 Sou estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor Fullstack em formação   
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOtavioTenorio&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Tecnologias
 - **Linguagens:**  
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -12,8 +14,8 @@
 - **Ferramentas:**  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOtavioTenorio&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 
 
