@@ -13,11 +13,25 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)  
 
 
-<!--
-## 🌟 Projetos em Destaque
-- **[Nome do Projeto](link)**: Descrição breve do projeto.
-- **[Outro Projeto](link)**: Descrição breve do projeto.
 
+## 🌟 Projetos em Destaque
+
+### [CineSpark](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g2-cinespark)  
+*Obs: Desenvolvido no primeiro semestre da faculdade (PUC Minas)*  
+
+- **Descrição:**  
+  Projeto desenvolvido como parte da disciplina TIAW (*Trabalho Interdisciplinar, Aplicações Web*). O objetivo era criar um webapp que consumisse uma API e armazenasse dados em um banco de dados **JSONServer**.  
+
+- **Experiências Adquiridas:**  
+  - Uso prático do **GitHub** e aplicação de suas melhores práticas.  
+  - Trabalho em equipe com **branches** para versionamento e colaboração.  
+  - Desenvolvimento de uma aplicação web funcional, com deploy realizado no **Vercel**:  
+    [CineSpark - Deploy](https://pco-si-2023-2-p1-tiaw-t1-g2-cinespark-theta.vercel.app/telaLogin.html)  
+  - Documentação completa do projeto, abordando tanto aspectos técnicos quanto organizacionais.  
+
+---
+
+<!--
 ## 📬 Entre em Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](link)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:r.otavio.tenorio@gmail.com)
