@@ -9,7 +9,7 @@
   ![.NET](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white)  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![AJAX](https://img.shields.io/badge/-AJAX-2E77BB?logo=javascript&logoColor=white) 
 - **Banco de Dados:**  
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-  - **Ferramentas:**  
+- **Ferramentas:**  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)  
 
 
