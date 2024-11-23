@@ -45,7 +45,7 @@ Obs: Trabalho acadêmico realizado para a disciplina de **Grafos** (PUC Minas).
   - Documentação estruturada utilizando LATEX, com divisão clara de responsabilidades no relatório.
 
 - **Deploy/Link do Repositório**:  
-  [Link para o Repositório](https://github.com/SEU_USUARIO/REPOSITORIO)  
+  [Link para o Repositório](https://github.com/RafaelOtavioTenorio/Trabalho-grafos)  
 
 <!--
 ## 📬 Entre em Contato
