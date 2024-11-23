@@ -29,6 +29,22 @@
     [CineSpark - Deploy](https://pco-si-2023-2-p1-tiaw-t1-g2-cinespark-theta.vercel.app/telaLogin.html)  
   - Documentação completa do projeto, abordando tanto aspectos técnicos quanto organizacionais.  
 
+### Biblioteca para Manipulação de Grafos
+
+Obs: Trabalho acadêmico realizado para a disciplina de **Grafos** (PUC Minas).
+
+- **Descrição**:  
+  Biblioteca desenvolvida para a manipulação de grafos, incluindo representações (matriz de adjacência, matriz de incidência e lista de adjacência) e diversas funcionalidades como checagem de conectividade, identificação de pontes (métodos naive e Tarjan) e busca de caminhos eulerianos com o Algoritmo de Fleury. Inclui também exportação para o Gephi em diversos formatos suportados.
+
+- **Experiências Adquiridas**:
+  - Implementação de algoritmos clássicos de Grafos como Kosaraju, Tarjan e Fleury.
+  - Análise de desempenho comparativo de métodos aplicados a grafos de grande escala.
+  - Uso de ferramentas como Gephi para visualização de grafos exportados.
+  - Documentação estruturada utilizando LATEX, com divisão clara de responsabilidades no relatório.
+
+- **Deploy/Link do Repositório**:  
+  [Link para o Repositório](https://github.com/SEU_USUARIO/REPOSITORIO)  
+
 <!--
 ## 📬 Entre em Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](link)
