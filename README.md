@@ -29,7 +29,7 @@
     [CineSpark - Deploy](https://pco-si-2023-2-p1-tiaw-t1-g2-cinespark-theta.vercel.app/telaLogin.html)  
   - Documentação completa do projeto, abordando tanto aspectos técnicos quanto organizacionais.
  
-***
+---
 
 ### Biblioteca para Manipulação de Grafos
 
