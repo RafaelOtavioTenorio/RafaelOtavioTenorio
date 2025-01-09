@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologias
 - **Linguagens:**  
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 - **Frameworks e Bibliotecas:**  
   ![.NET](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white)  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![AJAX](https://img.shields.io/badge/-AJAX-2E77BB?logo=javascript&logoColor=white) 
 - **Banco de Dados:**  
