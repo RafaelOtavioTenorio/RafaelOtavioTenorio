@@ -14,39 +14,6 @@
 - **Ferramentas:**  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 
-## 🌟 Projetos em Destaque
-
-### [CineSpark](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g2-cinespark)  
-*Obs: Desenvolvido no primeiro semestre da faculdade (PUC Minas)*  
-
-- **Descrição:**  
-  Projeto desenvolvido como parte da disciplina TIAW (*Trabalho Interdisciplinar, Aplicações Web*). O objetivo era criar um webapp que consumisse uma API e armazenasse dados em um banco de dados **JSONServer**.  
-
-- **Experiências Adquiridas:**  
-  - Uso prático do **GitHub** e aplicação de suas melhores práticas.  
-  - Trabalho em equipe com **branches** para versionamento e colaboração.  
-  - Desenvolvimento de uma aplicação web funcional, com deploy realizado no **Vercel**:  
-    [CineSpark - Deploy](https://pco-si-2023-2-p1-tiaw-t1-g2-cinespark-theta.vercel.app/telaLogin.html)  
-  - Documentação completa do projeto, abordando tanto aspectos técnicos quanto organizacionais.
- 
----
-
-### Biblioteca para Manipulação de Grafos
-
-Obs: Trabalho acadêmico realizado para a disciplina de **Grafos** (PUC Minas).
-
-- **Descrição**:  
-  Biblioteca desenvolvida para a manipulação de grafos, incluindo representações (matriz de adjacência, matriz de incidência e lista de adjacência) e diversas funcionalidades como checagem de conectividade, identificação de pontes (métodos naive e Tarjan) e busca de caminhos eulerianos com o Algoritmo de Fleury. Inclui também exportação para o Gephi em diversos formatos suportados.
-
-- **Experiências Adquiridas**:
-  - Implementação de algoritmos clássicos de Grafos como Kosaraju, Tarjan e Fleury.
-  - Análise de desempenho comparativo de métodos aplicados a grafos de grande escala.
-  - Uso de ferramentas como Gephi para visualização de grafos exportados.
-  - Documentação estruturada utilizando LATEX, com divisão clara de responsabilidades no relatório.
-
-- **Deploy/Link do Repositório**:  
-  [Link para o Repositório](https://github.com/RafaelOtavioTenorio/Trabalho-grafos)  
-
 <!--
 ## 📬 Entre em Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](link)
