@@ -1,8 +1,6 @@
 # Olá! 👋 Me chamo Rafael
 
-🎓 Sou estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor Fullstack em formação   
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOtavioTenorio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+🎓 Sou estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor Fullstack em formação
 
 ## 🛠️ Tecnologias
 - **Linguagens:**  
